@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there! 👋 I'm [Pamela]
 
-<!--
-**pammitu/pammitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about driving innovation and making a positive impact, I'm a results-driven professional with a background in sales, recruiting, and healthcare case management. Recently, I made an exciting career transition into the dynamic world of software engineering. With a strong foundation in JavaScript, HTML, CSS, and Python, I'm eager to build my resume and contribute to meaningful projects. My pronouns are She/Her and a fun fact about me is that I'm a fitness enthusiast and enjoy exploring the intersection of technology and wellness!
 
-Here are some ideas to get you started:
+#### Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Project 1: **
+- Description: I am currently working on a responsive web application designed to streamline scheduling and strategic planning for case managers working to staff patients who need in home care..
+- Technologies Used: HTML, CSS, JavaScript, React, Express.js
+- Live Demo: [Link to Live Demo]
+- Repository: [Link to GitHub Repository]
+
+#### Tech Stack
+
+🛠️ JavaScript | HTML | CSS | Python | React | Express.js 
+
+#### Collaboration and Contributions
+
+🌟 **Open-Source Contribution:**
+- I am looking to contribute to open-source projects in health and sustainability.
+
+#### Learning and Growth
+
+📚 Currently expanding my knowledge through online courses and tutorials, my focus right now is to solidify my skills I picked up with Adobe's Digital academy. My current focus is on React and Python so I am learning from classes including [Course Name] and [Tutorial Name]. FreeCodeCamp is usually my go-to option for quickly brushing up on my skills. 
+
+#### Contact
+
+📩 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/pamela-stankova/) for potential opportunities or collaborations.
+
+Let's code and make an impact together! ✨
