@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Pamela]
+### Hi there! 👋 I'm Pamela
 
 Passionate about driving innovation and making a positive impact, I'm a results-driven professional with a background in sales, recruiting, and healthcare case management. Recently, I made an exciting career transition into the dynamic world of software engineering. With a strong foundation in JavaScript, HTML, CSS, and Python, I'm eager to build my resume and contribute to meaningful projects. My pronouns are She/Her and a fun fact about me is that I'm a fitness enthusiast and enjoy exploring the intersection of technology and wellness!
 
@@ -21,7 +21,7 @@ Passionate about driving innovation and making a positive impact, I'm a results-
 
 #### Learning and Growth
 
-📚 Currently expanding my knowledge through online courses and tutorials, my focus right now is to solidify my skills I picked up with Adobe's Digital academy. My current focus is on React and Python so I am learning from classes including [Course Name] and [Tutorial Name]. FreeCodeCamp is usually my go-to option for quickly brushing up on my skills. 
+📚 Currently expanding my knowledge through online courses and tutorials, my focus right now is to solidify my skills I picked up with Adobe's Digital academy. My current focus is on React and Python so I am learning from classes including University of Michigan's "Python is for everybody" Course and Meta's "React basics" program through Coursera. FreeCodeCamp is usually my go-to option for quickly brushing up on my skills. 
 
 #### Contact
 
