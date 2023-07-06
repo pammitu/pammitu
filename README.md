@@ -4,7 +4,7 @@ Passionate about driving innovation and making a positive impact, I'm a results-
 
 #### Current Projects
 
-🚀 **Project 1: **
+🚀 Project 1: 
 - Description: I am currently working on a responsive web application designed to streamline scheduling and strategic planning for case managers working to staff patients who need in home care.
 - Technologies Used: HTML, CSS, JavaScript, React, Express.js
 - Live Demo: [Link to Live Demo]
